@@ -1,0 +1,29 @@
+# Eclipse and IDEA
+.classpath
+.project
+*.iml
+.settings/
+.idea/
+target/
+output/
+test-output/
+
+# Java
+*.class
+
+# Python
+*.pyc
+*.pyo
+
+# Version properties
+*.version.properties
+
+# AOF Commons Builder
+.build/
+.builder/
+
+# Spark temp files
+spark-warehouse/
+
+# Storm temp files
+logs/
